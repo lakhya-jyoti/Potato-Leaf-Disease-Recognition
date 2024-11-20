@@ -1,6 +1,7 @@
 # Potato Leaf Disease Recognition System
 
-![late-blight-on-foliage](https://github.com/user-attachments/assets/4412b8d6-fa7f-46e3-8569-d9d5fe7b0924)
+![image](https://github.com/user-attachments/assets/b47f7b3c-243a-4c84-b301-d0e7ee1aeb22)
+
 
 ## Overview
 
