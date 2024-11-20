@@ -30,3 +30,11 @@ Welcome to the **Potato Leaf Disease Recognition System**! This system helps in 
 - **NumPy** – For numerical computations and image array manipulation.
 - **OpenCv** - For image handling.
 
+### About Dataset
+- **Dataset Source**: [Kaggle Potato Leaf Disease Dataset](https://www.kaggle.com/datasets/muhammadardiputra/potato-leaf-disease-dataset).
+- **Dataset Details (After mannual arrangements)**: 
+  - Train: 1722 images
+  - Validation: 215 images
+  - Test: 215 images
+  - 3 Classes: Early Blight, Late Blight, Healthy
+
