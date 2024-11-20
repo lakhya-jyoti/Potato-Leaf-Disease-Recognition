@@ -1,5 +1,7 @@
 # Potato Leaf Disease Recognition System
 
+![late-blight-on-foliage](https://github.com/user-attachments/assets/4412b8d6-fa7f-46e3-8569-d9d5fe7b0924)
+
 ## Overview
 
 Welcome to the **Potato Leaf Disease Recognition System**! This system helps in identifying potato plant diseases quickly and accurately. By simply uploading or capturing an image of a potato leaf, our system automatically detects potential diseases, offering instant results with high accuracy.
@@ -37,4 +39,5 @@ Welcome to the **Potato Leaf Disease Recognition System**! This system helps in 
   - Validation: 215 images
   - Test: 215 images
   - 3 Classes: Early Blight, Late Blight, Healthy
+
 
